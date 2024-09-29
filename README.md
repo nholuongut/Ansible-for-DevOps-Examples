@@ -1,6 +1,8 @@
 # Ansible for DevOps Examples
 
 This repository contains Ansible examples developed to support different sections of [Ansible for DevOps] by [Nho Luong](https://github.com/nholuongut).
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
 
 Many examples use Vagrant, VirtualBox, and Ansible to boot and configure VMs on your local workstation.
 
@@ -96,14 +98,17 @@ Here is an outline of all the examples contained in this repository, by chapter:
 
 * [TinyPilot](https://tinypilotkvm.com): An open-source, low-cost KVM over IP for managing your servers.
 
+I'm are always open to your feedback.  Please contact as bellow information:
 ### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
-* Nho Luong (c) 2024
+* Nho Luong (c). All Rights Reserved.
